@@ -1,0 +1,67 @@
+{
+  "/Users/rizal/develop/jasa-gps/_references/traccar-geocoder/builder/src/address_levels.hpp": {
+    "mtime": 1781353599.76886,
+    "ast_hash": "d806d71277941d82433b97c45fdcba19",
+    "semantic_hash": "d806d71277941d82433b97c45fdcba19"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-geocoder/builder/src/build_index.cpp": {
+    "mtime": 1781353599.7690763,
+    "ast_hash": "76c0bcd98f82c3bf145778ed9803380c",
+    "semantic_hash": "76c0bcd98f82c3bf145778ed9803380c"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-geocoder/entrypoint.sh": {
+    "mtime": 1781353599.7693312,
+    "ast_hash": "49ed6c89e5d583146f741a76662f9e43",
+    "semantic_hash": "49ed6c89e5d583146f741a76662f9e43"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-geocoder/server/src/auth.rs": {
+    "mtime": 1781353599.769861,
+    "ast_hash": "89e4f29b2e722ed3e6acdbdcc5594528",
+    "semantic_hash": "89e4f29b2e722ed3e6acdbdcc5594528"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-geocoder/server/src/main.rs": {
+    "mtime": 1781353599.770002,
+    "ast_hash": "777f31df48ba268bbf723662f9be5335",
+    "semantic_hash": "777f31df48ba268bbf723662f9be5335"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-geocoder/.github/FUNDING.yml": {
+    "mtime": 1781353599.7679133,
+    "ast_hash": "09f8a1b29c4ceb7950802fb482fa0168",
+    "semantic_hash": "09f8a1b29c4ceb7950802fb482fa0168"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-geocoder/.github/workflows/docker.yml": {
+    "mtime": 1781353599.7680533,
+    "ast_hash": "b2896b8921b02c317976845b32ab7061",
+    "semantic_hash": "b2896b8921b02c317976845b32ab7061"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-geocoder/LICENSE.txt": {
+    "mtime": 1781353599.7683794,
+    "ast_hash": "3b83ef96387f14655fc854ddc3c6bd57",
+    "semantic_hash": "3b83ef96387f14655fc854ddc3c6bd57"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-geocoder/README.md": {
+    "mtime": 1781353599.768549,
+    "ast_hash": "df862c9004c2a6b1a707f5eb80f8bde9",
+    "semantic_hash": "df862c9004c2a6b1a707f5eb80f8bde9"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-geocoder/builder/CMakeLists.txt": {
+    "mtime": 1781353599.768683,
+    "ast_hash": "52eb20979d1fa24e06433196a2adc0fc",
+    "semantic_hash": "52eb20979d1fa24e06433196a2adc0fc"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-geocoder/docker-compose.yml": {
+    "mtime": 1781353599.769246,
+    "ast_hash": "7ae9b310e2ae5aa1aa2a64c0712c7c10",
+    "semantic_hash": "7ae9b310e2ae5aa1aa2a64c0712c7c10"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-geocoder/server/src/web/dashboard.html": {
+    "mtime": 1781353599.7701359,
+    "ast_hash": "da56f78113f40c41aca164de5d08913b",
+    "semantic_hash": "da56f78113f40c41aca164de5d08913b"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-geocoder/server/src/web/login.html": {
+    "mtime": 1781353599.770219,
+    "ast_hash": "7735d8b9797cb4fe8496dc3741b3ecc2",
+    "semantic_hash": "7735d8b9797cb4fe8496dc3741b3ecc2"
+  }
+}
