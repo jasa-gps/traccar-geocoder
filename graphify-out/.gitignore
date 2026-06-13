@@ -1,0 +1,9 @@
+# graphify internal/machine-local files — only deliverables are tracked
+.graphify_python
+.graphify_root
+.graphify_labels.json
+.graphify_detect.json
+.graphify_*.json
+cache/
+cost.json
+manifest.json
